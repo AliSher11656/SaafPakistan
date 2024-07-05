@@ -113,9 +113,9 @@ class RecyclableItem {
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: const FirebaseOptions(
-    apiKey: 'AIzaSyBqsHkst-BFg6HXCWhXr6ai0lQLBPg1u0E', // Add your API key
-    appId: '1:355966022483:android:7b6a97a29b4f0ed3dca7a6', // Add your App ID
-    projectId: 'saafpakistan123', // Add your Project ID
+    apiKey: '', // Add your API key
+    appId: '', // Add your App ID
+    projectId: '', // Add your Project ID
     messagingSenderId: '', // Add your Sender ID if needed
   ));
 
